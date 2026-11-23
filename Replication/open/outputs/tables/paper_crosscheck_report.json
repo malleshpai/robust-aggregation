@@ -1,0 +1,1747 @@
+{
+  "n_matches": 360,
+  "n_mismatches": 0,
+  "matches": [
+    {
+      "section": "prediction_rows",
+      "nft_id": 2,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 2,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 2,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 11,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 11,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 11,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 17,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 17,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 17,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 18,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 18,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 18,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 7,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 7,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 7,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 8,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 8,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 8,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 9,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 9,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 9,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 10,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 10,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 10,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 13,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 13,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 13,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 15,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 15,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 15,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 19,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 19,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 19,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 1,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 1,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 1,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 4,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 4,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 4,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 6,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 6,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 6,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 12,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 12,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 12,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 14,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 14,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 14,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 3,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 3,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 3,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 5,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 5,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 5,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 16,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 16,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 16,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 20,
+      "field": "pmba"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 20,
+      "field": "majority_mu"
+    },
+    {
+      "section": "prediction_rows",
+      "nft_id": 20,
+      "field": "majority_alpha"
+    },
+    {
+      "section": "prediction_summary",
+      "field": "mae_pmba"
+    },
+    {
+      "section": "prediction_summary",
+      "field": "mae_majority_mu"
+    },
+    {
+      "section": "prediction_summary",
+      "field": "mae_majority_alpha"
+    },
+    {
+      "section": "prediction_summary",
+      "field": "wilcoxon_p_vs_majority_mu"
+    },
+    {
+      "section": "prediction_summary",
+      "field": "wilcoxon_p_vs_majority_alpha"
+    },
+    {
+      "section": "prediction_summary",
+      "field": "ttest_p_vs_majority_mu"
+    },
+    {
+      "section": "prediction_summary",
+      "field": "ttest_p_vs_majority_alpha"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 2,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 2,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 2,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 2,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 2,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 2,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 2,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 11,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 11,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 11,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 11,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 11,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 11,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 11,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 17,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 17,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 17,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 17,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 17,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 17,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 17,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 18,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 18,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 18,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 18,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 18,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 18,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 18,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 7,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 7,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 7,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 7,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 7,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 7,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 7,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 8,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 8,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 8,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 8,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 8,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 8,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 8,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 9,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 9,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 9,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 9,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 9,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 9,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 9,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 10,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 10,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 10,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 10,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 10,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 10,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 10,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 13,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 13,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 13,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 13,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 13,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 13,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 13,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 15,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 15,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 15,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 15,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 15,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 15,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 15,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 19,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 19,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 19,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 19,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 19,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 19,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 19,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 1,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 1,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 1,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 1,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 1,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 1,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 1,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 4,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 4,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 4,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 4,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 4,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 4,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 4,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 6,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 6,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 6,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 6,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 6,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 6,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 6,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 12,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 12,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 12,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 12,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 12,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 12,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 12,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 14,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 14,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 14,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 14,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 14,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 14,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 14,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 3,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 3,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 3,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 3,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 3,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 3,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 3,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 5,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 5,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 5,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 5,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 5,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 5,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 5,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 16,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 16,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 16,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 16,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 16,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 16,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 16,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 20,
+      "field": "ols_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 20,
+      "field": "cls_iv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 20,
+      "field": "ols_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 20,
+      "field": "cls_iv_nc"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 20,
+      "field": "ols_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 20,
+      "field": "cls_noiv_c"
+    },
+    {
+      "section": "robustness_rows",
+      "nft_id": 20,
+      "field": "majority"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_1.ols_iv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_1.cls_iv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_1.ols_iv_nc"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_1.cls_iv_nc"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_1.ols_noiv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_1.cls_noiv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_1.majority"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_2.ols_iv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_2.cls_iv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_2.ols_iv_nc"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_2.cls_iv_nc"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_2.ols_noiv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_2.cls_noiv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_2.majority"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_3.ols_iv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_3.cls_iv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_3.ols_iv_nc"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_3.cls_iv_nc"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_3.ols_noiv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_3.cls_noiv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_3.majority"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_4.ols_iv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_4.cls_iv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_4.ols_iv_nc"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_4.cls_iv_nc"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_4.ols_noiv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_4.cls_noiv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "range_4.majority"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "paired_t_p.ols_iv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "paired_t_p.cls_iv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "paired_t_p.ols_iv_nc"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "paired_t_p.cls_iv_nc"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "paired_t_p.ols_noiv_c"
+    },
+    {
+      "section": "robustness_summary",
+      "field": "paired_t_p.cls_noiv_c"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 2,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 2,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 2,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 2,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 2,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 11,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 11,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 11,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 11,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 11,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 17,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 17,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 17,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 17,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 17,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 18,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 18,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 18,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 18,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 18,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 7,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 7,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 7,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 7,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 7,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 8,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 8,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 8,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 8,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 8,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 9,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 9,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 9,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 9,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 9,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 10,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 10,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 10,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 10,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 10,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 13,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 13,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 13,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 13,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 13,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 15,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 15,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 15,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 15,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 15,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 19,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 19,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 19,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 19,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 19,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 1,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 1,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 1,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 1,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 1,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 4,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 4,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 4,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 4,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 4,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 6,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 6,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 6,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 6,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 6,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 12,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 12,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 12,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 12,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 12,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 14,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 14,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 14,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 14,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 14,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 3,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 3,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 3,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 3,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 3,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 5,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 5,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 5,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 5,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 5,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 16,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 16,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 16,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 16,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 16,
+      "field": "p_value"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 20,
+      "field": "n_obs"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 20,
+      "field": "mu12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 20,
+      "field": "alpha12_pct"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 20,
+      "field": "sp_group"
+    },
+    {
+      "section": "sp_replication",
+      "nft_id": 20,
+      "field": "p_value"
+    },
+    {
+      "section": "score_summary",
+      "field": "range_1_avg_pmba"
+    },
+    {
+      "section": "score_summary",
+      "field": "range_1_avg_sp"
+    },
+    {
+      "section": "score_summary",
+      "field": "range_2_avg_pmba"
+    },
+    {
+      "section": "score_summary",
+      "field": "range_2_avg_sp"
+    },
+    {
+      "section": "score_summary",
+      "field": "range_3_avg_pmba"
+    },
+    {
+      "section": "score_summary",
+      "field": "range_3_avg_sp"
+    },
+    {
+      "section": "score_summary",
+      "field": "range_4_avg_pmba"
+    },
+    {
+      "section": "score_summary",
+      "field": "range_4_avg_sp"
+    },
+    {
+      "section": "score_summary",
+      "field": "total_score_pmba"
+    },
+    {
+      "section": "score_summary",
+      "field": "total_score_sp"
+    },
+    {
+      "section": "score_summary",
+      "field": "range12_mcnemar_p"
+    },
+    {
+      "section": "score_summary",
+      "field": "range12_wilcoxon_p"
+    },
+    {
+      "section": "score_summary",
+      "field": "range12_ttest_p"
+    },
+    {
+      "section": "score_summary",
+      "field": "range123_mcnemar_p"
+    },
+    {
+      "section": "score_summary",
+      "field": "range123_wilcoxon_p"
+    },
+    {
+      "section": "score_summary",
+      "field": "range123_ttest_p"
+    },
+    {
+      "section": "score_summary",
+      "field": "all_mcnemar_p"
+    },
+    {
+      "section": "score_summary",
+      "field": "all_wilcoxon_p"
+    },
+    {
+      "section": "score_summary",
+      "field": "all_ttest_p"
+    }
+  ],
+  "mismatches": []
+}

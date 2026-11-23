@@ -1,0 +1,100 @@
+For NFT No. 1,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.39.
+SP (average) predicts Range 1&2.
+Majority (average) predicts Range 1.
+The true state is Range 3.
+
+For NFT No. 2,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.40.
+SP (average) predicts Range 3&4.
+Majority (average) predicts Range 1.
+The true state is Range 1.
+
+For NFT No. 3,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.35.
+SP (average) predicts Range 3&4.
+Majority (average) predicts Range 1.
+The true state is Range 4.
+
+For NFT No. 4,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.45.
+SP (average) predicts Range 3&4.
+Majority (average) predicts Range 1.
+The true state is Range 3.
+
+For NFT No. 5,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.48.
+SP (average) predicts Range 3&4.
+Majority (average) predicts Range 1.
+The true state is Range 4.
+
+For NFT No. 6,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.42.
+SP (average) predicts Range 1&2.
+Majority (average) predicts Range 1.
+The true state is Range 3.
+
+For NFT No. 7,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.48.
+SP (average) predicts Range 3&4.
+Majority (average) predicts Range 1.
+The true state is Range 2.
+
+For NFT No. 8,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.39.
+SP (average) predicts Range 3&4.
+Majority (average) predicts Range 1.
+The true state is Range 2.
+
+For NFT No. 9,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.39.
+SP (average) predicts Range 1&2.
+Majority (average) predicts Range 1.
+The true state is Range 2.
+
+For NFT No. 10,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.45.
+SP (average) predicts Range 3&4.
+Majority (average) predicts Range 1.
+The true state is Range 2.
+
+For NFT No. 11,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.39.
+SP (average) predicts Range 1&2.
+Majority (average) predicts Range 1.
+The true state is Range 1.
+
+For NFT No. 12,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.36.
+SP (average) predicts Range 1&2.
+Majority (average) predicts Range 2.
+The true state is Range 3.
+
+For NFT No. 13,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.37.
+SP (average) predicts Range 3&4.
+Majority (average) predicts Range 1.
+The true state is Range 2.
+
+For NFT No. 14,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.55.
+SP (average) predicts Range 1&2.
+Majority (average) predicts Range 1.
+The true state is Range 3.
+
+For NFT No. 15,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.46.
+SP (average) predicts Range 1&2.
+Majority (average) predicts Range 1.
+The true state is Range 2.
+
+For NFT No. 16,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.44.
+SP (average) predicts Range 3&4.
+Majority (average) predicts Range 1.
+The true state is Range 4.
+
+For NFT No. 17,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.50.
+SP (average) predicts Range 1&2.
+Majority (average) predicts Range 1.
+The true state is Range 1.
+
+For NFT No. 18,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.35.
+SP (average) predicts Range 1&2.
+Majority (average) predicts Range 3.
+The true state is Range 1.
+
+For NFT No. 19,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.50.
+SP (average) predicts Range 1&2.
+Majority (average) predicts Range 1.
+The true state is Range 2.
+
+For NFT No. 20,OLSD4_C_NoIV reasonably (distance <= 1.00) predicts Range 3. The distance is 0.39.
+SP (average) predicts Range 1&2.
+Majority (average) predicts Range 1.
+The true state is Range 4.
+

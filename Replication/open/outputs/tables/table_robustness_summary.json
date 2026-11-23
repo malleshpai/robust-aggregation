@@ -1,0 +1,46 @@
+{
+  "range_1": {
+    "ols_iv_c": 0.25,
+    "cls_iv_c": 0.5,
+    "ols_iv_nc": 0.25,
+    "cls_iv_nc": 0.5,
+    "ols_noiv_c": 0.75,
+    "cls_noiv_c": 1.75,
+    "majority": 0.5
+  },
+  "range_2": {
+    "ols_iv_c": 1.0,
+    "cls_iv_c": 1.0,
+    "ols_iv_nc": 1.0,
+    "cls_iv_nc": 0.8571428571428571,
+    "ols_noiv_c": 1.0,
+    "cls_noiv_c": 1.1428571428571428,
+    "majority": 1.0
+  },
+  "range_3": {
+    "ols_iv_c": 1.2,
+    "cls_iv_c": 1.4,
+    "ols_iv_nc": 1.2,
+    "cls_iv_nc": 1.0,
+    "ols_noiv_c": 1.4,
+    "cls_noiv_c": 1.4,
+    "majority": 1.8
+  },
+  "range_4": {
+    "ols_iv_c": 2.75,
+    "cls_iv_c": 1.0,
+    "ols_iv_nc": 2.75,
+    "cls_iv_nc": 2.0,
+    "ols_noiv_c": 2.0,
+    "cls_noiv_c": 1.25,
+    "majority": 3.0
+  },
+  "paired_t_p": {
+    "ols_iv_c": 0.048074844228963375,
+    "cls_iv_c": 0.03308502804217318,
+    "ols_iv_nc": 0.048074844228963375,
+    "cls_iv_nc": 0.01756373973185218,
+    "ols_noiv_c": 0.06754405692028448,
+    "cls_noiv_c": 0.31228600812697194
+  }
+}

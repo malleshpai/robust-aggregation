@@ -1,0 +1,21 @@
+{
+  "range_1_avg_pmba": 1.0,
+  "range_1_avg_sp": 0.5,
+  "range_2_avg_pmba": 0.42857142857142855,
+  "range_2_avg_sp": -0.14285714285714285,
+  "range_3_avg_pmba": 0.2,
+  "range_3_avg_sp": -0.6,
+  "range_4_avg_pmba": -1.0,
+  "range_4_avg_sp": 0.5,
+  "total_score_pmba": 4,
+  "total_score_sp": 0,
+  "range12_mcnemar_p": 0.25,
+  "range12_wilcoxon_p": 0.125,
+  "range12_ttest_p": 0.04077669935076478,
+  "range123_mcnemar_p": 0.125,
+  "range123_wilcoxon_p": 0.0625,
+  "range123_ttest_p": 0.027743562421784662,
+  "all_mcnemar_p": 0.75390625,
+  "all_wilcoxon_p": 0.376953125,
+  "all_ttest_p": 0.2704421287724821
+}

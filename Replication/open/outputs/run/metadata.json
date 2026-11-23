@@ -1,0 +1,11 @@
+{
+  "methods": [
+    "ols_iv_c",
+    "cls_iv_c",
+    "ols_iv_nc",
+    "cls_iv_nc",
+    "ols_noiv_c",
+    "cls_noiv_c"
+  ],
+  "n_nfts": 20
+}

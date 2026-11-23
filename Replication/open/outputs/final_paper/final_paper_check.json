@@ -1,0 +1,8977 @@
+{
+  "n_checked": 1280,
+  "n_matches": 1280,
+  "n_mismatches": 0,
+  "mismatches": [],
+  "results": [
+    {
+      "key": "sec4:sample/participants",
+      "expected": 199,
+      "got": 199,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:sample/nfts_per_participant_min",
+      "expected": 10,
+      "got": 10,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:sample/nfts_per_participant_max",
+      "expected": 10,
+      "got": 10,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:implementation/n_min",
+      "expected": 93,
+      "got": 93,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:implementation/n_max",
+      "expected": 104,
+      "got": 104,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:implementation/dropped_pairs",
+      "expected": 6,
+      "got": 6,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:implementation/F_min",
+      "expected": 0.23,
+      "got": 0.23009606325070028,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "sec4:implementation/F_max",
+      "expected": 3.96,
+      "got": 3.95623569455309,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/F_count",
+      "expected": 60,
+      "got": 60,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/F_below_10",
+      "expected": 60,
+      "got": 60,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft1/n",
+      "expected": 102,
+      "got": 102,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft1/retained",
+      "expected": 102,
+      "got": 102,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft1/F_range1",
+      "expected": 1.77,
+      "got": 1.77458707426714,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft1/F_range2",
+      "expected": 2.67,
+      "got": 2.6677794564620707,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft1/F_range3",
+      "expected": 1.55,
+      "got": 1.553535868339636,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft2/n",
+      "expected": 103,
+      "got": 103,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft2/retained",
+      "expected": 103,
+      "got": 103,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft2/F_range1",
+      "expected": 2.31,
+      "got": 2.3110073075436026,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft2/F_range2",
+      "expected": 1.31,
+      "got": 1.310669007450918,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft2/F_range3",
+      "expected": 2.18,
+      "got": 2.176545664356008,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft3/n",
+      "expected": 101,
+      "got": 101,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft3/retained",
+      "expected": 101,
+      "got": 101,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft3/F_range1",
+      "expected": 0.68,
+      "got": 0.6767567802719522,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft3/F_range2",
+      "expected": 1.81,
+      "got": 1.805750361529571,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft3/F_range3",
+      "expected": 1.16,
+      "got": 1.1555024234665312,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft4/n",
+      "expected": 100,
+      "got": 100,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft4/retained",
+      "expected": 99,
+      "got": 99,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft4/F_range1",
+      "expected": 2.1,
+      "got": 2.096417725482955,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft4/F_range2",
+      "expected": 3.5,
+      "got": 3.5005260696235463,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft4/F_range3",
+      "expected": 1.36,
+      "got": 1.3618707322055057,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft5/n",
+      "expected": 101,
+      "got": 101,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft5/retained",
+      "expected": 101,
+      "got": 101,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft5/F_range1",
+      "expected": 0.87,
+      "got": 0.8716156603812365,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft5/F_range2",
+      "expected": 1.45,
+      "got": 1.4487420055826818,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft5/F_range3",
+      "expected": 0.29,
+      "got": 0.2858772320139795,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft6/n",
+      "expected": 100,
+      "got": 100,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft6/retained",
+      "expected": 100,
+      "got": 100,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft6/F_range1",
+      "expected": 1.13,
+      "got": 1.1293951180158723,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft6/F_range2",
+      "expected": 0.9,
+      "got": 0.9035244144984965,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft6/F_range3",
+      "expected": 0.98,
+      "got": 0.9809927078966625,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft7/n",
+      "expected": 97,
+      "got": 97,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft7/retained",
+      "expected": 97,
+      "got": 97,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft7/F_range1",
+      "expected": 1.25,
+      "got": 1.253052562890091,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft7/F_range2",
+      "expected": 1.36,
+      "got": 1.361453944409755,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft7/F_range3",
+      "expected": 0.81,
+      "got": 0.8123290594955154,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft8/n",
+      "expected": 96,
+      "got": 96,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft8/retained",
+      "expected": 95,
+      "got": 95,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft8/F_range1",
+      "expected": 1.08,
+      "got": 1.0791965026672063,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft8/F_range2",
+      "expected": 0.23,
+      "got": 0.23009606325070028,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft8/F_range3",
+      "expected": 0.84,
+      "got": 0.8414492254456334,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft9/n",
+      "expected": 93,
+      "got": 93,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft9/retained",
+      "expected": 93,
+      "got": 93,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft9/F_range1",
+      "expected": 1.74,
+      "got": 1.7357610651187783,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft9/F_range2",
+      "expected": 1.09,
+      "got": 1.0871528218807431,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft9/F_range3",
+      "expected": 1.62,
+      "got": 1.6181855176323945,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft10/n",
+      "expected": 97,
+      "got": 97,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft10/retained",
+      "expected": 95,
+      "got": 95,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft10/F_range1",
+      "expected": 0.45,
+      "got": 0.44986509175277767,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft10/F_range2",
+      "expected": 0.43,
+      "got": 0.4329799137941498,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft10/F_range3",
+      "expected": 1.23,
+      "got": 1.2338677233160895,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft11/n",
+      "expected": 99,
+      "got": 99,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft11/retained",
+      "expected": 98,
+      "got": 98,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft11/F_range1",
+      "expected": 3.96,
+      "got": 3.95623569455309,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft11/F_range2",
+      "expected": 0.89,
+      "got": 0.8911438430898871,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft11/F_range3",
+      "expected": 1.93,
+      "got": 1.9339234261333087,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft12/n",
+      "expected": 101,
+      "got": 101,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft12/retained",
+      "expected": 101,
+      "got": 101,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft12/F_range1",
+      "expected": 1.51,
+      "got": 1.5136430578882791,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft12/F_range2",
+      "expected": 0.4,
+      "got": 0.4044264010149212,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft12/F_range3",
+      "expected": 2.57,
+      "got": 2.5653248367507935,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft13/n",
+      "expected": 102,
+      "got": 102,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft13/retained",
+      "expected": 102,
+      "got": 102,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft13/F_range1",
+      "expected": 1.23,
+      "got": 1.2259982167059098,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft13/F_range2",
+      "expected": 1.14,
+      "got": 1.1440669319148367,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft13/F_range3",
+      "expected": 0.89,
+      "got": 0.8866427954050115,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft14/n",
+      "expected": 98,
+      "got": 98,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft14/retained",
+      "expected": 97,
+      "got": 97,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft14/F_range1",
+      "expected": 1.21,
+      "got": 1.211714555131742,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft14/F_range2",
+      "expected": 1.19,
+      "got": 1.1858542654792195,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft14/F_range3",
+      "expected": 0.94,
+      "got": 0.9417354959720534,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft15/n",
+      "expected": 100,
+      "got": 100,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft15/retained",
+      "expected": 100,
+      "got": 100,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft15/F_range1",
+      "expected": 3.52,
+      "got": 3.517907162928483,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft15/F_range2",
+      "expected": 1.09,
+      "got": 1.093310073698742,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft15/F_range3",
+      "expected": 2.95,
+      "got": 2.9468996209624505,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft16/n",
+      "expected": 100,
+      "got": 100,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft16/retained",
+      "expected": 100,
+      "got": 100,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft16/F_range1",
+      "expected": 0.36,
+      "got": 0.35812291433889526,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft16/F_range2",
+      "expected": 0.95,
+      "got": 0.9496980467418559,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft16/F_range3",
+      "expected": 0.6,
+      "got": 0.5961156856358115,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft17/n",
+      "expected": 94,
+      "got": 94,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft17/retained",
+      "expected": 94,
+      "got": 94,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft17/F_range1",
+      "expected": 0.84,
+      "got": 0.836629417512974,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft17/F_range2",
+      "expected": 1.39,
+      "got": 1.3927947746515699,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft17/F_range3",
+      "expected": 0.66,
+      "got": 0.65667785362135,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft18/n",
+      "expected": 99,
+      "got": 99,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft18/retained",
+      "expected": 99,
+      "got": 99,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft18/F_range1",
+      "expected": 0.81,
+      "got": 0.8148347362598263,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft18/F_range2",
+      "expected": 1.18,
+      "got": 1.1835789777649222,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft18/F_range3",
+      "expected": 0.49,
+      "got": 0.4859786345338992,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft19/n",
+      "expected": 104,
+      "got": 104,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft19/retained",
+      "expected": 104,
+      "got": 104,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft19/F_range1",
+      "expected": 0.5,
+      "got": 0.49653797962455126,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft19/F_range2",
+      "expected": 0.72,
+      "got": 0.71616314263938,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft19/F_range3",
+      "expected": 0.54,
+      "got": 0.5403261162101268,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft20/n",
+      "expected": 103,
+      "got": 103,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft20/retained",
+      "expected": 103,
+      "got": 103,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft20/F_range1",
+      "expected": 0.9,
+      "got": 0.9032257991280388,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft20/F_range2",
+      "expected": 2.22,
+      "got": 2.2212562314560937,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:firststage/nft20/F_range3",
+      "expected": 0.37,
+      "got": 0.3663469534932232,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:prediction_errors/pmba/mae",
+      "expected": 1.25,
+      "got": 1.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:prediction_errors/pmba/exact",
+      "expected": 5,
+      "got": 5,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:prediction_errors/mean_mu/mae",
+      "expected": 1.5,
+      "got": 1.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:prediction_errors/mean_mu/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:prediction_errors/mean_mu/pmba_minus_method",
+      "expected": -0.25,
+      "got": -0.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:prediction_errors/mean_mu/p_paired_t",
+      "expected": 0.0481,
+      "got": 0.048074844229043276,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:prediction_errors/mean_alpha/mae",
+      "expected": 1.4,
+      "got": 1.4,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:prediction_errors/mean_alpha/exact",
+      "expected": 5,
+      "got": 5,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:prediction_errors/mean_alpha/pmba_minus_method",
+      "expected": -0.15,
+      "got": -0.1499999999999999,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:prediction_errors/mean_alpha/p_paired_t",
+      "expected": 0.1896,
+      "got": 0.18963164708911082,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:prediction_errors/vote/mae",
+      "expected": 1.55,
+      "got": 1.55,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:prediction_errors/vote/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:prediction_errors/vote/pmba_minus_method",
+      "expected": -0.3,
+      "got": -0.30000000000000004,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:prediction_errors/vote/p_paired_t",
+      "expected": 0.0276,
+      "got": 0.027628421569496367,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "sec4:results/gain_min",
+      "expected": 0.15,
+      "got": 0.1499999999999999,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "sec4:results/gain_max",
+      "expected": 0.3,
+      "got": 0.30000000000000004,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "sec4:results/gain_share_min_pct",
+      "expected": 11,
+      "got": 10.714285714285708,
+      "decimals": 0,
+      "ok": true
+    },
+    {
+      "key": "sec4:results/gain_share_max_pct",
+      "expected": 19,
+      "got": 19.35483870967742,
+      "decimals": 0,
+      "ok": true
+    },
+    {
+      "key": "sec4:uncertainty/ci95_vs_mean_mu_lo",
+      "expected": -0.55,
+      "got": -0.5489050637681478,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "sec4:uncertainty/ci95_vs_mean_mu_hi",
+      "expected": 0.05,
+      "got": 0.048905063768147905,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "sec4:uncertainty/ci95_vs_mean_alpha_lo",
+      "expected": -0.5,
+      "got": -0.49874553101871777,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "sec4:uncertainty/ci95_vs_mean_alpha_hi",
+      "expected": 0.2,
+      "got": 0.1987455310187178,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "sec4:uncertainty/p_paired_t_vs_mean_mu",
+      "expected": 0.0481,
+      "got": 0.048074844229043276,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "sec4:uncertainty/p_signed_rank_vs_mean_mu",
+      "expected": 0.0938,
+      "got": 0.09375,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "sec4:where/improved",
+      "expected": 5,
+      "got": 5,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:where/unchanged",
+      "expected": 14,
+      "got": 14,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:where/worse",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:where/improved_items",
+      "expected": "1,3,6,13,18",
+      "got": "1,3,6,13,18",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:where/raised_above_range1_items",
+      "expected": "1,3,6,13",
+      "got": "1,3,6,13",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:where/lowered_overprediction_items",
+      "expected": "18",
+      "got": "18",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:where/worse_items",
+      "expected": "10",
+      "got": "10",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:discussion/benchmarks_predict_1_for_all_range4",
+      "expected": true,
+      "got": true,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range1/items",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range1/pmba/mae",
+      "expected": 0.25,
+      "got": 0.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range1/pmba/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range1/mean_mu/mae",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range1/mean_mu/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range1/mean_alpha/mae",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range1/mean_alpha/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range1/vote/mae",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range1/vote/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range2/items",
+      "expected": 7,
+      "got": 7,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range2/pmba/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range2/pmba/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range2/mean_mu/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range2/mean_mu/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range2/mean_alpha/mae",
+      "expected": 0.86,
+      "got": 0.8571428571428571,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range2/mean_alpha/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range2/vote/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range2/vote/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range3/items",
+      "expected": 5,
+      "got": 5,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range3/pmba/mae",
+      "expected": 1.2,
+      "got": 1.2,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range3/pmba/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range3/mean_mu/mae",
+      "expected": 1.8,
+      "got": 1.8,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range3/mean_mu/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range3/mean_alpha/mae",
+      "expected": 1.6,
+      "got": 1.6,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range3/mean_alpha/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range3/vote/mae",
+      "expected": 2.0,
+      "got": 2.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range3/vote/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range4/items",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range4/pmba/mae",
+      "expected": 2.75,
+      "got": 2.75,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range4/pmba/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range4/mean_mu/mae",
+      "expected": 3.0,
+      "got": 3.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range4/mean_mu/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range4/mean_alpha/mae",
+      "expected": 3.0,
+      "got": 3.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range4/mean_alpha/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range4/vote/mae",
+      "expected": 3.0,
+      "got": 3.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/range4/vote/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/rangeall/items",
+      "expected": 20,
+      "got": 20,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/rangeall/pmba/mae",
+      "expected": 1.25,
+      "got": 1.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/rangeall/pmba/exact",
+      "expected": 5,
+      "got": 5,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/rangeall/mean_mu/mae",
+      "expected": 1.5,
+      "got": 1.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/rangeall/mean_mu/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/rangeall/mean_alpha/mae",
+      "expected": 1.4,
+      "got": 1.4,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/rangeall/mean_alpha/exact",
+      "expected": 5,
+      "got": 5,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/rangeall/vote/mae",
+      "expected": 1.55,
+      "got": 1.55,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:true_range/rangeall/vote/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range1/items",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range1/pmba/mae",
+      "expected": 0.25,
+      "got": 0.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range1/pmba/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range1/mean_mu/mae",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range1/mean_mu/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range1/mean_alpha/mae",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range1/mean_alpha/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range1/vote/mae",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range1/vote/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range2/items",
+      "expected": 7,
+      "got": 7,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range2/pmba/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range2/pmba/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range2/mean_mu/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range2/mean_mu/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range2/mean_alpha/mae",
+      "expected": 0.86,
+      "got": 0.8571428571428571,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range2/mean_alpha/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range2/vote/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range2/vote/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range3/items",
+      "expected": 5,
+      "got": 5,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range3/pmba/mae",
+      "expected": 1.2,
+      "got": 1.2,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range3/pmba/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range3/mean_mu/mae",
+      "expected": 1.8,
+      "got": 1.8,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range3/mean_mu/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range3/mean_alpha/mae",
+      "expected": 1.6,
+      "got": 1.6,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range3/mean_alpha/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range3/vote/mae",
+      "expected": 2.0,
+      "got": 2.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range3/vote/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range4/items",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range4/pmba/mae",
+      "expected": 2.75,
+      "got": 2.75,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range4/pmba/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range4/mean_mu/mae",
+      "expected": 3.0,
+      "got": 3.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range4/mean_mu/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range4/mean_alpha/mae",
+      "expected": 3.0,
+      "got": 3.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range4/mean_alpha/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range4/vote/mae",
+      "expected": 3.0,
+      "got": 3.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range4/vote/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/rangeall/items",
+      "expected": 20,
+      "got": 20,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/rangeall/pmba/mae",
+      "expected": 1.25,
+      "got": 1.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/rangeall/pmba/exact",
+      "expected": 5,
+      "got": 5,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/rangeall/mean_mu/mae",
+      "expected": 1.5,
+      "got": 1.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/rangeall/mean_mu/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/rangeall/mean_alpha/mae",
+      "expected": 1.4,
+      "got": 1.4,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/rangeall/mean_alpha/exact",
+      "expected": 5,
+      "got": 5,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/rangeall/vote/mae",
+      "expected": 1.55,
+      "got": 1.55,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/rangeall/vote/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:constant_range2/mae",
+      "expected": 0.85,
+      "got": 0.85,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "sec4:constant_range2/exact",
+      "expected": 7,
+      "got": 7,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:constant_range2/max_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft2/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft2/pmba_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft2/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft2/mean_mu_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft2/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft2/mean_alpha_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft2/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft2/vote_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft11/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft11/pmba_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft11/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft11/mean_mu_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft11/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft11/mean_alpha_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft11/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft11/vote_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft17/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft17/pmba_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft17/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft17/mean_mu_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft17/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft17/mean_alpha_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft17/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft17/vote_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft18/pmba",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft18/pmba_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft18/mean_mu",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft18/mean_mu_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft18/mean_alpha",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft18/mean_alpha_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft18/vote",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft18/vote_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft7/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft7/pmba_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft7/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft7/mean_mu_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft7/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft7/mean_alpha_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft7/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft7/vote_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft8/pmba",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft8/pmba_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft8/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft8/mean_mu_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft8/mean_alpha",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft8/mean_alpha_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft8/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft8/vote_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft9/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft9/pmba_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft9/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft9/mean_mu_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft9/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft9/mean_alpha_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft9/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft9/vote_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft10/pmba",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft10/pmba_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft10/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft10/mean_mu_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft10/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft10/mean_alpha_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft10/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft10/vote_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft13/pmba",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft13/pmba_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft13/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft13/mean_mu_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft13/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft13/mean_alpha_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft13/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft13/vote_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft15/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft15/pmba_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft15/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft15/mean_mu_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft15/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft15/mean_alpha_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft15/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft15/vote_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft19/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft19/pmba_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft19/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft19/mean_mu_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft19/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft19/mean_alpha_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft19/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft19/vote_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft1/pmba",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft1/pmba_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft1/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft1/mean_mu_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft1/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft1/mean_alpha_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft1/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft1/vote_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft4/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft4/pmba_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft4/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft4/mean_mu_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft4/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft4/mean_alpha_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft4/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft4/vote_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft6/pmba",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft6/pmba_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft6/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft6/mean_mu_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft6/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft6/mean_alpha_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft6/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft6/vote_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft12/pmba",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft12/pmba_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft12/mean_mu",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft12/mean_mu_abs_error",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft12/mean_alpha",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft12/mean_alpha_abs_error",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft12/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft12/vote_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft14/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft14/pmba_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft14/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft14/mean_mu_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft14/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft14/mean_alpha_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft14/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft14/vote_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft3/pmba",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft3/pmba_abs_error",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft3/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft3/mean_mu_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft3/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft3/mean_alpha_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft3/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft3/vote_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft5/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft5/pmba_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft5/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft5/mean_mu_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft5/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft5/mean_alpha_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft5/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft5/vote_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft16/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft16/pmba_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft16/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft16/mean_mu_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft16/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft16/mean_alpha_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft16/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft16/vote_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft20/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft20/pmba_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft20/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft20/mean_mu_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft20/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft20/mean_alpha_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft20/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/nft20/vote_abs_error",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range12/mean_mu/wilcoxon_p",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range12/mean_mu/t_p",
+      "expected": 0.2942,
+      "got": 0.2942246691579739,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range12/mean_alpha/wilcoxon_p",
+      "expected": 0.6875,
+      "got": 0.6875,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range12/mean_alpha/t_p",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range12/vote/wilcoxon_p",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range12/vote/t_p",
+      "expected": 0.2942,
+      "got": 0.2942246691579739,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range123/mean_mu/wilcoxon_p",
+      "expected": 0.1562,
+      "got": 0.15625,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range123/mean_mu/t_p",
+      "expected": 0.0819,
+      "got": 0.08193780682782677,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range123/mean_alpha/wilcoxon_p",
+      "expected": 0.3828,
+      "got": 0.3828125,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range123/mean_alpha/t_p",
+      "expected": 0.2722,
+      "got": 0.272225453221492,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range123/vote/wilcoxon_p",
+      "expected": 0.0938,
+      "got": 0.09375,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/range123/vote/t_p",
+      "expected": 0.0481,
+      "got": 0.048078554957103024,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/all/mean_mu/wilcoxon_p",
+      "expected": 0.0938,
+      "got": 0.09375,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/all/mean_mu/t_p",
+      "expected": 0.0481,
+      "got": 0.048074844229043276,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/all/mean_alpha/wilcoxon_p",
+      "expected": 0.2812,
+      "got": 0.28125,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/all/mean_alpha/t_p",
+      "expected": 0.1896,
+      "got": 0.18963164708911082,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/all/vote/wilcoxon_p",
+      "expected": 0.0547,
+      "got": 0.0546875,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:item_predictions/all/vote/t_p",
+      "expected": 0.0276,
+      "got": 0.027628421569496367,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "sec4:sp/pmba_correct",
+      "expected": 12,
+      "got": 12,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:sp/sp_correct",
+      "expected": 10,
+      "got": 10,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:sp/mcnemar_p",
+      "expected": 0.7539,
+      "got": 0.75390625,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft2/true_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft2/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft2/pmba_pred",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft2/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft2/pmba_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft2/sp_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft11/true_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft11/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft11/pmba_pred",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft11/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft11/pmba_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft11/sp_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft17/true_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft17/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft17/pmba_pred",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft17/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft17/pmba_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft17/sp_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft18/true_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft18/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft18/pmba_pred",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft18/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft18/pmba_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft18/sp_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft7/true_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft7/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft7/pmba_pred",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft7/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft7/pmba_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft7/sp_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft8/true_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft8/pmba_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft8/pmba_pred",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft8/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft8/pmba_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft8/sp_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft9/true_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft9/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft9/pmba_pred",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft9/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft9/pmba_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft9/sp_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft10/true_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft10/pmba_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft10/pmba_pred",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft10/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft10/pmba_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft10/sp_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft13/true_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft13/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft13/pmba_pred",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft13/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft13/pmba_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft13/sp_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft15/true_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft15/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft15/pmba_pred",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft15/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft15/pmba_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft15/sp_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft19/true_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft19/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft19/pmba_pred",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft19/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft19/pmba_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft19/sp_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft1/true_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft1/pmba_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft1/pmba_pred",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft1/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft1/pmba_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft1/sp_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft4/true_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft4/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft4/pmba_pred",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft4/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft4/pmba_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft4/sp_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft6/true_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft6/pmba_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft6/pmba_pred",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft6/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft6/pmba_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft6/sp_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft12/true_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft12/pmba_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft12/pmba_pred",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft12/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft12/pmba_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft12/sp_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft14/true_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft14/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft14/pmba_pred",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft14/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft14/pmba_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft14/sp_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft3/true_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft3/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft3/pmba_pred",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft3/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft3/pmba_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft3/sp_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft5/true_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft5/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft5/pmba_pred",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft5/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft5/pmba_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft5/sp_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft16/true_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft16/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft16/pmba_pred",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft16/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft16/pmba_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft16/sp_score",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft20/true_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft20/pmba_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft20/pmba_pred",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft20/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft20/pmba_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/nft20/sp_score",
+      "expected": -1,
+      "got": -1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/range1/avg_pmba",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/range1/avg_sp",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/range2/avg_pmba",
+      "expected": 0.43,
+      "got": 0.42857142857142855,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/range2/avg_sp",
+      "expected": -0.14,
+      "got": -0.14285714285714285,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/range3/avg_pmba",
+      "expected": 0.2,
+      "got": 0.2,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/range3/avg_sp",
+      "expected": -0.6,
+      "got": -0.6,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/range4/avg_pmba",
+      "expected": -1.0,
+      "got": -1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/range4/avg_sp",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/total_pmba",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/total_sp",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/range12/mcnemar_p",
+      "expected": 0.25,
+      "got": 0.25,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/range12/wilcoxon_p",
+      "expected": 0.125,
+      "got": 0.125,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/range12/t_p",
+      "expected": 0.0408,
+      "got": 0.04077669935080288,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/range123/mcnemar_p",
+      "expected": 0.125,
+      "got": 0.125,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/range123/wilcoxon_p",
+      "expected": 0.0625,
+      "got": 0.0625,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/range123/t_p",
+      "expected": 0.0277,
+      "got": 0.027743562421803585,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/all/mcnemar_p",
+      "expected": 0.7539,
+      "got": 0.75390625,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/all/wilcoxon_p",
+      "expected": 0.377,
+      "got": 0.376953125,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:score_comparison/all/t_p",
+      "expected": 0.2704,
+      "got": 0.27044212877248164,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "sec4:validity/n_components",
+      "expected": 320,
+      "got": 320,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:validity/n_negative",
+      "expected": 94,
+      "got": 94,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:validity/n_above_one",
+      "expected": 18,
+      "got": 18,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:validity/n_within",
+      "expected": 208,
+      "got": 208,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:validity/selected_out_of_bounds",
+      "expected": 17,
+      "got": 17,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:validity/pmba_specs_beat_all_benchmarks_on_mae",
+      "expected": true,
+      "got": true,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:validity/valid_coordinate_exact_min",
+      "expected": 7,
+      "got": 7,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:validity/valid_coordinate_exact_max",
+      "expected": 8,
+      "got": 8,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:validity/baseline_and_benchmarks_exact_max",
+      "expected": 5,
+      "got": 5,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:validity/coord_1_exact",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:validity/coord_4_exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:validity/mean_alpha_exact",
+      "expected": 5,
+      "got": 5,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "sec4:validity/share_within_pct",
+      "expected": 65,
+      "got": 65.0,
+      "decimals": 0,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/n_vectors",
+      "expected": 80,
+      "got": 80,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/all_sums_one",
+      "expected": true,
+      "got": true,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/n_negative",
+      "expected": 94,
+      "got": 94,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/n_within",
+      "expected": 208,
+      "got": 208,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/n_above_one",
+      "expected": 18,
+      "got": 18,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/share_negative_pct",
+      "expected": 29.4,
+      "got": 29.375,
+      "decimals": 1,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/share_within_pct",
+      "expected": 65.0,
+      "got": 65.0,
+      "decimals": 1,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/share_above_pct",
+      "expected": 5.6,
+      "got": 5.625,
+      "decimals": 1,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_-2.2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_-1.6",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_-1.2",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_-1.0",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_-0.8",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_-0.6",
+      "expected": 10,
+      "got": 10,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_-0.4",
+      "expected": 22,
+      "got": 22,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_-0.2",
+      "expected": 54,
+      "got": 54,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_+0.0",
+      "expected": 74,
+      "got": 74,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_+0.2",
+      "expected": 45,
+      "got": 45,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_+0.4",
+      "expected": 32,
+      "got": 32,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_+0.6",
+      "expected": 33,
+      "got": 33,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_+0.8",
+      "expected": 24,
+      "got": 24,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_+1.0",
+      "expected": 11,
+      "got": 11,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_+1.2",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_+1.4",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_+1.6",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:state_mean_distribution/bin_+3.6",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft2",
+      "expected": "VVVNVVNVNNANVVNA",
+      "got": "VVVNVVNVNNANVVNA",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft11",
+      "expected": "VVVNVVVVVVVVVNVV",
+      "got": "VVVNVVVVVVVVVNVV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft17",
+      "expected": "VNVVVVVNNVVVVVNV",
+      "got": "VNVVVVVNNVVVVVNV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft18",
+      "expected": "VVNNVVVNNVVVNNVV",
+      "got": "VVNNVVVNNVVVNNVV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft7",
+      "expected": "VVVNVVNNVVVVNNVA",
+      "got": "VVVNVVNNVVVVNNVA",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft8",
+      "expected": "VNVNNVNVVVNVNNAV",
+      "got": "VNVNNVNVVVNVNNAV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft9",
+      "expected": "VVVVVAVNVNVVNVVV",
+      "got": "VVVVVAVNVNVVNVVV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft10",
+      "expected": "ANVVVVNNNVAVVVNV",
+      "got": "ANVVVVNNNVAVVVNV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft13",
+      "expected": "VVNVVVVVVVVVNVVV",
+      "got": "VVNVVVVVVVVVNVVV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft15",
+      "expected": "VVNNVVVVVVVNNAVV",
+      "got": "VVNNVVVVVVVNNAVV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft19",
+      "expected": "VVNVNVVNVVVNVVVV",
+      "got": "VVNVNVVNVVVNVVVV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft1",
+      "expected": "VVVNVVNVVVVVNNVV",
+      "got": "VVVNVVNVVVVVNNVV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft4",
+      "expected": "VVVNNVVVNVVVANVV",
+      "got": "VVVNNVVVNVVVANVV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft6",
+      "expected": "ANVVNVVVNVVVVVNV",
+      "got": "ANVVNVVVNVVVVVNV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft12",
+      "expected": "VNVNNANVVNANVNVV",
+      "got": "VNVNNANVVNANVNVV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft14",
+      "expected": "AVNNVANNNNAVVVNV",
+      "got": "AVNNVANNNNAVVVNV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft3",
+      "expected": "VVNNNVVVVVVNNNVA",
+      "got": "VVNNNVVVVVVNNNVA",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft5",
+      "expected": "VVNVVVVNNVVVVNVV",
+      "got": "VVNVVVVNNVVVVNVV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft16",
+      "expected": "ANVNVVVNVVNVNVVV",
+      "got": "ANVNVVVNVVNVNVVV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "fig:validity/nft20",
+      "expected": "VVVNNAVVVNVNNVVV",
+      "got": "VVVNNAVVVNVNNVVV",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft2/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft2/coord_1",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft2/coord_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft2/coord_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft2/coord_4",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft2/own_ge_1",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft2/own_ge_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft2/own_ge_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft2/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft2/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft2/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft11/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft11/coord_1",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft11/coord_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft11/coord_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft11/coord_4",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft11/own_ge_1",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft11/own_ge_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft11/own_ge_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft11/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft11/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft11/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft17/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft17/coord_1",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft17/coord_2",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft17/coord_3",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft17/coord_4",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft17/own_ge_1",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft17/own_ge_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft17/own_ge_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft17/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft17/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft17/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft18/pmba",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft18/coord_1",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft18/coord_2",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft18/coord_3",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft18/coord_4",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft18/own_ge_1",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft18/own_ge_2",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft18/own_ge_3",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft18/mean_mu",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft18/mean_alpha",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft18/vote",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft7/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft7/coord_1",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft7/coord_2",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft7/coord_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft7/coord_4",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft7/own_ge_1",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft7/own_ge_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft7/own_ge_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft7/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft7/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft7/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft8/pmba",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft8/coord_1",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft8/coord_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft8/coord_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft8/coord_4",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft8/own_ge_1",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft8/own_ge_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft8/own_ge_3",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft8/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft8/mean_alpha",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft8/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft9/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft9/coord_1",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft9/coord_2",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft9/coord_3",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft9/coord_4",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft9/own_ge_1",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft9/own_ge_2",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft9/own_ge_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft9/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft9/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft9/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft10/pmba",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft10/coord_1",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft10/coord_2",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft10/coord_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft10/coord_4",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft10/own_ge_1",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft10/own_ge_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft10/own_ge_3",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft10/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft10/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft10/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft13/pmba",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft13/coord_1",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft13/coord_2",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft13/coord_3",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft13/coord_4",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft13/own_ge_1",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft13/own_ge_2",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft13/own_ge_3",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft13/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft13/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft13/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft15/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft15/coord_1",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft15/coord_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft15/coord_3",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft15/coord_4",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft15/own_ge_1",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft15/own_ge_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft15/own_ge_3",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft15/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft15/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft15/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft19/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft19/coord_1",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft19/coord_2",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft19/coord_3",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft19/coord_4",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft19/own_ge_1",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft19/own_ge_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft19/own_ge_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft19/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft19/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft19/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft1/pmba",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft1/coord_1",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft1/coord_2",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft1/coord_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft1/coord_4",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft1/own_ge_1",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft1/own_ge_2",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft1/own_ge_3",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft1/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft1/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft1/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft4/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft4/coord_1",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft4/coord_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft4/coord_3",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft4/coord_4",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft4/own_ge_1",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft4/own_ge_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft4/own_ge_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft4/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft4/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft4/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft6/pmba",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft6/coord_1",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft6/coord_2",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft6/coord_3",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft6/coord_4",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft6/own_ge_1",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft6/own_ge_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft6/own_ge_3",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft6/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft6/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft6/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft12/pmba",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft12/coord_1",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft12/coord_2",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft12/coord_3",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft12/coord_4",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft12/own_ge_1",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft12/own_ge_2",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft12/own_ge_3",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft12/mean_mu",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft12/mean_alpha",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft12/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft14/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft14/coord_1",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft14/coord_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft14/coord_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft14/coord_4",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft14/own_ge_1",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft14/own_ge_2",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft14/own_ge_3",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft14/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft14/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft14/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft3/pmba",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft3/coord_1",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft3/coord_2",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft3/coord_3",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft3/coord_4",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft3/own_ge_1",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft3/own_ge_2",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft3/own_ge_3",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft3/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft3/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft3/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft5/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft5/coord_1",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft5/coord_2",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft5/coord_3",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft5/coord_4",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft5/own_ge_1",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft5/own_ge_2",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft5/own_ge_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft5/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft5/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft5/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft16/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft16/coord_1",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft16/coord_2",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft16/coord_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft16/coord_4",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft16/own_ge_1",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft16/own_ge_2",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft16/own_ge_3",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft16/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft16/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft16/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft20/pmba",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft20/coord_1",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft20/coord_2",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft20/coord_3",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft20/coord_4",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft20/own_ge_1",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft20/own_ge_2",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft20/own_ge_3",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft20/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft20/mean_alpha",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/nft20/vote",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/pmba/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/pmba/mae",
+      "expected": 0.25,
+      "got": 0.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/coord_1/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/coord_1/mae",
+      "expected": 2.5,
+      "got": 2.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/coord_2/exact",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/coord_2/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/coord_3/exact",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/coord_3/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/coord_4/exact",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/coord_4/mae",
+      "expected": 0.75,
+      "got": 0.75,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/own_ge_1/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/own_ge_1/mae",
+      "expected": 0.25,
+      "got": 0.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/own_ge_2/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/own_ge_2/mae",
+      "expected": 0.25,
+      "got": 0.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/own_ge_3/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/own_ge_3/mae",
+      "expected": 0.25,
+      "got": 0.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/mean_mu/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/mean_mu/mae",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/mean_alpha/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/mean_alpha/mae",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/vote/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state1/vote/mae",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/pmba/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/pmba/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/coord_1/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/coord_1/mae",
+      "expected": 0.71,
+      "got": 0.7142857142857143,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/coord_2/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/coord_2/mae",
+      "expected": 1.43,
+      "got": 1.4285714285714286,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/coord_3/exact",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/coord_3/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/coord_4/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/coord_4/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/own_ge_1/exact",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/own_ge_1/mae",
+      "expected": 0.86,
+      "got": 0.8571428571428571,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/own_ge_2/exact",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/own_ge_2/mae",
+      "expected": 0.71,
+      "got": 0.7142857142857143,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/own_ge_3/exact",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/own_ge_3/mae",
+      "expected": 0.86,
+      "got": 0.8571428571428571,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/mean_mu/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/mean_mu/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/mean_alpha/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/mean_alpha/mae",
+      "expected": 0.86,
+      "got": 0.8571428571428571,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/vote/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state2/vote/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/pmba/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/pmba/mae",
+      "expected": 1.2,
+      "got": 1.2,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/coord_1/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/coord_1/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/coord_2/exact",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/coord_2/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/coord_3/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/coord_3/mae",
+      "expected": 1.4,
+      "got": 1.4,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/coord_4/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/coord_4/mae",
+      "expected": 0.8,
+      "got": 0.8,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/own_ge_1/exact",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/own_ge_1/mae",
+      "expected": 1.2,
+      "got": 1.2,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/own_ge_2/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/own_ge_2/mae",
+      "expected": 1.2,
+      "got": 1.2,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/own_ge_3/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/own_ge_3/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/mean_mu/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/mean_mu/mae",
+      "expected": 1.8,
+      "got": 1.8,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/mean_alpha/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/mean_alpha/mae",
+      "expected": 1.6,
+      "got": 1.6,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/vote/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state3/vote/mae",
+      "expected": 2.0,
+      "got": 2.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/pmba/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/pmba/mae",
+      "expected": 2.75,
+      "got": 2.75,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/coord_1/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/coord_1/mae",
+      "expected": 1.25,
+      "got": 1.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/coord_2/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/coord_2/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/coord_3/exact",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/coord_3/mae",
+      "expected": 1.25,
+      "got": 1.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/coord_4/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/coord_4/mae",
+      "expected": 2.25,
+      "got": 2.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/own_ge_1/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/own_ge_1/mae",
+      "expected": 2.0,
+      "got": 2.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/own_ge_2/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/own_ge_2/mae",
+      "expected": 1.75,
+      "got": 1.75,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/own_ge_3/exact",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/own_ge_3/mae",
+      "expected": 2.0,
+      "got": 2.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/mean_mu/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/mean_mu/mae",
+      "expected": 3.0,
+      "got": 3.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/mean_alpha/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/mean_alpha/mae",
+      "expected": 3.0,
+      "got": 3.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/vote/exact",
+      "expected": 0,
+      "got": 0,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/state4/vote/mae",
+      "expected": 3.0,
+      "got": 3.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/pmba/exact",
+      "expected": 5,
+      "got": 5,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/pmba/mae",
+      "expected": 1.25,
+      "got": 1.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/coord_1/exact",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/coord_1/mae",
+      "expected": 1.25,
+      "got": 1.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/coord_2/exact",
+      "expected": 5,
+      "got": 5,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/coord_2/mae",
+      "expected": 1.15,
+      "got": 1.15,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/coord_3/exact",
+      "expected": 6,
+      "got": 6,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/coord_3/mae",
+      "expected": 1.15,
+      "got": 1.15,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/coord_4/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/coord_4/mae",
+      "expected": 1.15,
+      "got": 1.15,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/own_ge_1/exact",
+      "expected": 8,
+      "got": 8,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/own_ge_1/mae",
+      "expected": 1.05,
+      "got": 1.05,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/own_ge_2/exact",
+      "expected": 7,
+      "got": 7,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/own_ge_2/mae",
+      "expected": 0.95,
+      "got": 0.95,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/own_ge_3/exact",
+      "expected": 7,
+      "got": 7,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/own_ge_3/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/mean_mu/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/mean_mu/mae",
+      "expected": 1.5,
+      "got": 1.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/mean_alpha/exact",
+      "expected": 5,
+      "got": 5,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/mean_alpha/mae",
+      "expected": 1.4,
+      "got": 1.4,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/vote/exact",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/stateall/vote/mae",
+      "expected": 1.55,
+      "got": 1.55,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "alternative-matching/own_ge_4_has_nft_without_candidate",
+      "expected": true,
+      "got": true,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft2/ols_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft2/cls_iv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft2/ols_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft2/cls_iv_nc",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft2/ols_noiv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft2/cls_noiv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft2/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft11/ols_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft11/cls_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft11/ols_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft11/cls_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft11/ols_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft11/cls_noiv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft11/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft17/ols_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft17/cls_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft17/ols_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft17/cls_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft17/ols_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft17/cls_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft17/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft18/ols_iv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft18/cls_iv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft18/ols_iv_nc",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft18/cls_iv_nc",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft18/ols_noiv_c",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft18/cls_noiv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft18/mean_mu",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft7/ols_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft7/cls_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft7/ols_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft7/cls_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft7/ols_noiv_c",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft7/cls_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft7/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft8/ols_iv_c",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft8/cls_iv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft8/ols_iv_nc",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft8/cls_iv_nc",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft8/ols_noiv_c",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft8/cls_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft8/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft9/ols_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft9/cls_iv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft9/ols_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft9/cls_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft9/ols_noiv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft9/cls_noiv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft9/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft10/ols_iv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft10/cls_iv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft10/ols_iv_nc",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft10/cls_iv_nc",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft10/ols_noiv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft10/cls_noiv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft10/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft13/ols_iv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft13/cls_iv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft13/ols_iv_nc",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft13/cls_iv_nc",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft13/ols_noiv_c",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft13/cls_noiv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft13/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft15/ols_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft15/cls_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft15/ols_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft15/cls_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft15/ols_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft15/cls_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft15/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft19/ols_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft19/cls_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft19/ols_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft19/cls_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft19/ols_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft19/cls_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft19/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft1/ols_iv_c",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft1/cls_iv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft1/ols_iv_nc",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft1/cls_iv_nc",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft1/ols_noiv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft1/cls_noiv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft1/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft4/ols_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft4/cls_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft4/ols_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft4/cls_iv_nc",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft4/ols_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft4/cls_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft4/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft6/ols_iv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft6/cls_iv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft6/ols_iv_nc",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft6/cls_iv_nc",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft6/ols_noiv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft6/cls_noiv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft6/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft12/ols_iv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft12/cls_iv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft12/ols_iv_nc",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft12/cls_iv_nc",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft12/ols_noiv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft12/cls_noiv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft12/mean_mu",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft14/ols_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft14/cls_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft14/ols_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft14/cls_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft14/ols_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft14/cls_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft14/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft3/ols_iv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft3/cls_iv_c",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft3/ols_iv_nc",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft3/cls_iv_nc",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft3/ols_noiv_c",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft3/cls_noiv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft3/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft5/ols_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft5/cls_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft5/ols_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft5/cls_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft5/ols_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft5/cls_noiv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft5/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft16/ols_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft16/cls_iv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft16/ols_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft16/cls_iv_nc",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft16/ols_noiv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft16/cls_noiv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft16/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft20/ols_iv_c",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft20/cls_iv_c",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft20/ols_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft20/cls_iv_nc",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft20/ols_noiv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft20/cls_noiv_c",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/nft20/mean_mu",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range1/ols_iv_c/mae",
+      "expected": 0.25,
+      "got": 0.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range1/cls_iv_c/mae",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range1/ols_iv_nc/mae",
+      "expected": 0.25,
+      "got": 0.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range1/cls_iv_nc/mae",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range1/ols_noiv_c/mae",
+      "expected": 0.75,
+      "got": 0.75,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range1/cls_noiv_c/mae",
+      "expected": 1.75,
+      "got": 1.75,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range1/mean_mu/mae",
+      "expected": 0.5,
+      "got": 0.5,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range2/ols_iv_c/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range2/cls_iv_c/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range2/ols_iv_nc/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range2/cls_iv_nc/mae",
+      "expected": 0.86,
+      "got": 0.8571428571428571,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range2/ols_noiv_c/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range2/cls_noiv_c/mae",
+      "expected": 1.14,
+      "got": 1.1428571428571428,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range2/mean_mu/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range3/ols_iv_c/mae",
+      "expected": 1.2,
+      "got": 1.2,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range3/cls_iv_c/mae",
+      "expected": 1.4,
+      "got": 1.4,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range3/ols_iv_nc/mae",
+      "expected": 1.2,
+      "got": 1.2,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range3/cls_iv_nc/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range3/ols_noiv_c/mae",
+      "expected": 1.4,
+      "got": 1.4,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range3/cls_noiv_c/mae",
+      "expected": 1.4,
+      "got": 1.4,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range3/mean_mu/mae",
+      "expected": 1.8,
+      "got": 1.8,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range4/ols_iv_c/mae",
+      "expected": 2.75,
+      "got": 2.75,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range4/cls_iv_c/mae",
+      "expected": 1.0,
+      "got": 1.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range4/ols_iv_nc/mae",
+      "expected": 2.75,
+      "got": 2.75,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range4/cls_iv_nc/mae",
+      "expected": 2.0,
+      "got": 2.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range4/ols_noiv_c/mae",
+      "expected": 2.0,
+      "got": 2.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range4/cls_noiv_c/mae",
+      "expected": 1.25,
+      "got": 1.25,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/range4/mean_mu/mae",
+      "expected": 3.0,
+      "got": 3.0,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/p_paired_t/ols_iv_c",
+      "expected": 0.0481,
+      "got": 0.048074844229043276,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/p_paired_t/cls_iv_c",
+      "expected": 0.0331,
+      "got": 0.0330850280421918,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/p_paired_t/ols_iv_nc",
+      "expected": 0.0481,
+      "got": 0.048074844229043276,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/p_paired_t/cls_iv_nc",
+      "expected": 0.0176,
+      "got": 0.017563739731861296,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/p_paired_t/ols_noiv_c",
+      "expected": 0.0675,
+      "got": 0.06754405692028337,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/p_paired_t/cls_noiv_c",
+      "expected": 0.3123,
+      "got": 0.3122860081269702,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:rob1/ols_iv_c_equals_ols_iv_nc",
+      "expected": true,
+      "got": true,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft1/range",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft2/range",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft3/range",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft4/range",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft5/range",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft6/range",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft7/range",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft8/range",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft9/range",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft10/range",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft11/range",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft12/range",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft13/range",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft14/range",
+      "expected": 3,
+      "got": 3,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft15/range",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft16/range",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft17/range",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft18/range",
+      "expected": 1,
+      "got": 1,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft19/range",
+      "expected": 2,
+      "got": 2,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft20/range",
+      "expected": 4,
+      "got": 4,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft2/n",
+      "expected": 103,
+      "got": 103,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft2/mu12_pct",
+      "expected": 68.73,
+      "got": 68.72815533980582,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft2/alpha12_pct",
+      "expected": 69.93,
+      "got": 69.92961165048544,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft2/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft2/p_one_sided",
+      "expected": 0.3139,
+      "got": 0.3138633030240489,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft11/n",
+      "expected": 99,
+      "got": 99,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft11/mu12_pct",
+      "expected": 63.32,
+      "got": 63.323232323232325,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft11/alpha12_pct",
+      "expected": 62.52,
+      "got": 62.51767676767677,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft11/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft11/p_one_sided",
+      "expected": 0.3973,
+      "got": 0.3972654436492635,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft17/n",
+      "expected": 94,
+      "got": 94,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft17/mu12_pct",
+      "expected": 80.1,
+      "got": 80.10106382978725,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft17/alpha12_pct",
+      "expected": 77.34,
+      "got": 77.34468085106381,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft17/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft17/p_one_sided",
+      "expected": 0.1251,
+      "got": 0.12505714984407254,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft18/n",
+      "expected": 99,
+      "got": 99,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft18/mu12_pct",
+      "expected": 48.74,
+      "got": 48.73737373737374,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft18/alpha12_pct",
+      "expected": 45.84,
+      "got": 45.83838383838384,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft18/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft18/p_one_sided",
+      "expected": 0.1577,
+      "got": 0.15773650051385268,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft7/n",
+      "expected": 97,
+      "got": 97,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft7/mu12_pct",
+      "expected": 77.27,
+      "got": 77.26804123711342,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft7/alpha12_pct",
+      "expected": 78.16,
+      "got": 78.16494845360825,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft7/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft7/p_one_sided",
+      "expected": 0.3506,
+      "got": 0.35058324728125617,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft8/n",
+      "expected": 96,
+      "got": 96,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft8/mu12_pct",
+      "expected": 65.39,
+      "got": 65.38541666666666,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft8/alpha12_pct",
+      "expected": 66.99,
+      "got": 66.98958333333334,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft8/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft8/p_one_sided",
+      "expected": 0.2805,
+      "got": 0.2804731444824671,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft9/n",
+      "expected": 93,
+      "got": 93,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft9/mu12_pct",
+      "expected": 65.03,
+      "got": 65.03225806451613,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft9/alpha12_pct",
+      "expected": 60.72,
+      "got": 60.71827956989247,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft9/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft9/p_one_sided",
+      "expected": 0.0864,
+      "got": 0.08637142109469721,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft10/n",
+      "expected": 97,
+      "got": 97,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft10/mu12_pct",
+      "expected": 75.25,
+      "got": 75.24742268041238,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft10/alpha12_pct",
+      "expected": 75.73,
+      "got": 75.73402061855668,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft10/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft10/p_one_sided",
+      "expected": 0.4268,
+      "got": 0.42680601455453726,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft13/n",
+      "expected": 102,
+      "got": 102,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft13/mu12_pct",
+      "expected": 59.95,
+      "got": 59.95098039215685,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft13/alpha12_pct",
+      "expected": 61.73,
+      "got": 61.730392156862735,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft13/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft13/p_one_sided",
+      "expected": 0.2943,
+      "got": 0.2942508506340918,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft15/n",
+      "expected": 100,
+      "got": 100,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft15/mu12_pct",
+      "expected": 75.48,
+      "got": 75.47999999999999,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft15/alpha12_pct",
+      "expected": 70.1,
+      "got": 70.10000000000001,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft15/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft15/p_one_sided",
+      "expected": 0.0254,
+      "got": 0.025438641459362126,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft19/n",
+      "expected": 104,
+      "got": 104,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft19/mu12_pct",
+      "expected": 77.39,
+      "got": 77.39423076923077,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft19/alpha12_pct",
+      "expected": 73.41,
+      "got": 73.41346153846153,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft19/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft19/p_one_sided",
+      "expected": 0.0713,
+      "got": 0.071309693272585,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft1/n",
+      "expected": 102,
+      "got": 102,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft1/mu12_pct",
+      "expected": 65.93,
+      "got": 65.9313725490196,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft1/alpha12_pct",
+      "expected": 64.62,
+      "got": 64.61764705882352,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft1/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft1/p_one_sided",
+      "expected": 0.3261,
+      "got": 0.32611081142001763,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft4/n",
+      "expected": 100,
+      "got": 100,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft4/mu12_pct",
+      "expected": 73.74,
+      "got": 73.74,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft4/alpha12_pct",
+      "expected": 75.15,
+      "got": 75.15,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft4/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft4/p_one_sided",
+      "expected": 0.2875,
+      "got": 0.28747330384269776,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft6/n",
+      "expected": 100,
+      "got": 100,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft6/mu12_pct",
+      "expected": 72.64,
+      "got": 72.63999999999999,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft6/alpha12_pct",
+      "expected": 72.36,
+      "got": 72.36000000000001,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft6/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft6/p_one_sided",
+      "expected": 0.4562,
+      "got": 0.4562492641734257,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft12/n",
+      "expected": 101,
+      "got": 101,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft12/mu12_pct",
+      "expected": 56.52,
+      "got": 56.52475247524753,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft12/alpha12_pct",
+      "expected": 51.82,
+      "got": 51.82178217821782,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft12/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft12/p_one_sided",
+      "expected": 0.0586,
+      "got": 0.05856720264742815,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft14/n",
+      "expected": 98,
+      "got": 98,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft14/mu12_pct",
+      "expected": 80.86,
+      "got": 80.85714285714288,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft14/alpha12_pct",
+      "expected": 80.41,
+      "got": 80.41428571428571,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft14/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft14/p_one_sided",
+      "expected": 0.4291,
+      "got": 0.42911011532276655,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft3/n",
+      "expected": 101,
+      "got": 101,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft3/mu12_pct",
+      "expected": 54.24,
+      "got": 54.23762376237623,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft3/alpha12_pct",
+      "expected": 57.2,
+      "got": 57.198019801980195,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft3/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft3/p_one_sided",
+      "expected": 0.1874,
+      "got": 0.1873679033940595,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft5/n",
+      "expected": 101,
+      "got": 101,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft5/mu12_pct",
+      "expected": 77.07,
+      "got": 77.0693069306931,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft5/alpha12_pct",
+      "expected": 77.17,
+      "got": 77.16930693069307,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft5/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft5/p_one_sided",
+      "expected": 0.4839,
+      "got": 0.48389621707624914,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft16/n",
+      "expected": 100,
+      "got": 100,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft16/mu12_pct",
+      "expected": 72.01,
+      "got": 72.01,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft16/alpha12_pct",
+      "expected": 74.99,
+      "got": 74.99,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft16/sp_group",
+      "expected": "3&4",
+      "got": "3&4",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft16/p_one_sided",
+      "expected": 0.1236,
+      "got": 0.12361328191031964,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft20/n",
+      "expected": 103,
+      "got": 103,
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft20/mu12_pct",
+      "expected": 64.76,
+      "got": 64.75728155339804,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft20/alpha12_pct",
+      "expected": 62.74,
+      "got": 62.73543689320389,
+      "decimals": 2,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft20/sp_group",
+      "expected": "1&2",
+      "got": "1&2",
+      "decimals": null,
+      "ok": true
+    },
+    {
+      "key": "tab:sp_replication/nft20/p_one_sided",
+      "expected": 0.247,
+      "got": 0.24698468072726806,
+      "decimals": 4,
+      "ok": true
+    },
+    {
+      "key": "tab:nft_list/nft1/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft1/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft2/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft2/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft3/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft3/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft4/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft4/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft5/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft5/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft6/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft6/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft7/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft7/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft8/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft8/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft9/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft9/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft10/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft10/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft11/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft11/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft12/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft12/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft13/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft13/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft14/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft14/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft15/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft15/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft16/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft16/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft17/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft17/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft18/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft18/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft19/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft19/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft20/sgd_price_in_range",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    },
+    {
+      "key": "tab:nft_list/nft20/sgd_equals_eth_times_rate",
+      "expected": true,
+      "got": true,
+      "ok": true,
+      "internal": true
+    }
+  ],
+  "computed_but_not_printed": [
+    "tab:prediction_errors/mean_alpha/gain_share_of_benchmark_mae",
+    "tab:prediction_errors/mean_mu/gain_share_of_benchmark_mae",
+    "tab:prediction_errors/vote/gain_share_of_benchmark_mae"
+  ],
+  "notes": [
+    "fig:state_mean_distribution panel (b) prints 'Maximum absolute error: 2.00e-15'. Floating-point rounding noise is platform dependent, so the check only requires the maximum to be below 1e-12; this run gives 3.11e-15.",
+    "tab:nft_list collection names, token numbers and prices are not in the raw data; the check confirms the Range column equals true_state.csv and that the printed prices are internally consistent."
+  ]
+}

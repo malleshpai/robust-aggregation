@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+**/__pycache__/
+*.pyc
+*.egg-info/
+
+# LaTeX build files (source and final PDF are tracked)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.synctex.gz
